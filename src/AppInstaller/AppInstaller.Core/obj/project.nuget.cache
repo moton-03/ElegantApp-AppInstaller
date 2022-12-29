@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCYg20aKd1uYIQkGQYvfanGAvLHK39An9u1bzqaY0IzuMIUKcU7rH2l5SPUjJiuMHh2t+lEMY6RhxOqfBsK1qg==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\ElegantApp-AppInstaller\\src\\AppInstaller\\AppInstaller.Core\\AppInstaller.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kira_\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

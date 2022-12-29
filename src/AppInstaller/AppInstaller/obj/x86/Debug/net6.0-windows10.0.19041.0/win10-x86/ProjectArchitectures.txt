@@ -1,0 +1,1 @@
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller\AppInstaller.csproj;x86

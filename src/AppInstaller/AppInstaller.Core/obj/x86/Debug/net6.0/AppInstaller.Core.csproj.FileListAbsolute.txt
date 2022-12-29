@@ -1,0 +1,12 @@
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\bin\x86\Debug\net6.0\AppInstaller.Core.deps.json
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\bin\x86\Debug\net6.0\AppInstaller.Core.dll
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\bin\x86\Debug\net6.0\AppInstaller.Core.pdb
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\AppInstaller.Core.csproj.AssemblyReference.cache
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\AppInstaller.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\AppInstaller.Core.AssemblyInfoInputs.cache
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\AppInstaller.Core.AssemblyInfo.cs
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\AppInstaller.Core.csproj.CoreCompileInputs.cache
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\AppInstaller.Core.dll
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\refint\AppInstaller.Core.dll
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\AppInstaller.Core.pdb
+C:\GitHub\ElegantApp-AppInstaller\src\AppInstaller\AppInstaller.Core\obj\x86\Debug\net6.0\ref\AppInstaller.Core.dll
